@@ -1,0 +1,12 @@
+{
+    "name": "aternos-loop-afk-bot",
+    "version": "1.0.0",
+    "description": "Aternos 7/24 Acik Tutma Botu",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "mineflayer": "^4.20.0"
+    }
+}
