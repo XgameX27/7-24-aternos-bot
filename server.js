@@ -3,8 +3,8 @@ const http = require('http'); // Bot dışarıdayken Render/Glitch sitesini uyan
 
 // --- AYARLAR ---
 const botArgs = {
-    host: 'oceanking337.aternos.me', // Sunucu IP adresi
-    port: 32697,                      // Sunucu portu
+    host: 'kayramert027.aternos.me', // Sunucu IP adresi
+    port: 55652,                      // Sunucu portu
     username: 'KayraLoopAFK',         // Botun sunucudaki adı
     version: '1.21.1'                 // Minecraft sürümü
 };
