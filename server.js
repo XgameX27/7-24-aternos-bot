@@ -23,8 +23,8 @@ const version = '1.21.1';
 // Çalışan güncel bir SOCKS5 Proxy ayarı
 const proxyOptions = {
     proxy: {
-        host: '184.174.61.166', // Eğer timeout almaya devam edersen buraya taze bir SOCKS5 IP'si yazabilirsin
-        port: 4145,
+        host: '67.43.227.228', // Canlı ve taze SOCKS5 proxy IP'si
+        port: 4145,            // Port numarası
         type: 5
     },
     command: 'connect',
